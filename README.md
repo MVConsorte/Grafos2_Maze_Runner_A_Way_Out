@@ -91,11 +91,29 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 **Framework**: (caso exista)<br>
 Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+## Instalação para devs
+1. Clone o repositório:
+   ```
+   git clone https://github.com/projeto-de-algoritmos-2024/Grafos2_Maze_Runner_A_Way_Out.git
+   ```
+3. Navegue até o diretório onde o projeto está:
+   ```
+   cd caminho-para-Grafos2_Maze_Runner_A_Way_Out
+   ```
+5. Execute o projeto (Versão 1):
+   ```
+   python labirinto_v1.2.py
+   ```
+7. Execute o projeto (Versão 2):
+   ```
+   python labirito_v2.py
+   ```
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+
+## Uso 
+ Trata-se de um software simples e intuitivo para ambos os executaveis em 'dist':
+  * Há um botão de gerar novo labirinto (Prim).
+  * Há outro botão para realizar o percurso pelo labirinto (Dijkstra).
 
 
 
