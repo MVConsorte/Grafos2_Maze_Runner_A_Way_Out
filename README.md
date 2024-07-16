@@ -92,10 +92,7 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Requisitos
 1. Ter instalado o Python 3.12
-2. ``` pip install pygame &&/
-   pip install random &&/
-   pip install heapq
-   ```
+2. ``` pip install pygame && pip install random && pip install heapq ```
 
 ## Instalação para devs
 1. Clone o repositório:
