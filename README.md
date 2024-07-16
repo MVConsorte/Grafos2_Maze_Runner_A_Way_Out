@@ -1,6 +1,6 @@
 # Maze Runner: a Way Out
 
-**Número da Lista**: 29<br>
+**Número da Lista**:29<br>
 **Conteúdo da Disciplina**: Grafos 2<br>
 
 ## Alunos
@@ -84,7 +84,21 @@ Caso seja utilizado fila simples, o tempo é $O(V^2)$;  com heap binário, $O((V
   * Assim como na mitologia graga, o objetivo desse algoritimo é fazer o que Dédalo fez, construir o labirinto.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+## Versão 1 
+Confira o código [aqui](https://github.com/projeto-de-algoritmos-2024/Grafos2_Maze_Runner_A_Way_Out/blob/master/labirinto_v1.2.py).
+--------------------------------------
+https://github.com/user-attachments/assets/d0574e0b-6606-4869-8db5-0d9b1778a1f3
+
+## Versão 2
+Confira o código [aqui](https://github.com/projeto-de-algoritmos-2024/Grafos2_Maze_Runner_A_Way_Out/blob/master/labirito_v2.py)
+---------------------------------------
+https://github.com/user-attachments/assets/8f90a6f5-de7f-46da-986b-4d71e719421f
+
+## Versão 1 e versão 2
+https://github.com/user-attachments/assets/4c2be9cf-b9c1-46aa-a434-93fb244e0f23
+
+
 
 ## Instalação 
 **Linguagem**: Python<br>
@@ -117,7 +131,3 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
  Trata-se de um software simples e intuitivo para ambos os executaveis em 'dist':
   * Há um botão de gerar novo labirinto (Prim).
   * Há outro botão para realizar o percurso pelo labirinto (Dijkstra).
-
-
-
-
