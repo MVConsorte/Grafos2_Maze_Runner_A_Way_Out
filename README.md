@@ -1,6 +1,6 @@
 # Maze Runner: a Way Out
 
-**Número da Lista**: X<br>
+**Número da Lista**: 29<br>
 **Conteúdo da Disciplina**: Grafos 2<br>
 
 ## Alunos
@@ -89,7 +89,13 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 ## Instalação 
 **Linguagem**: Python<br>
 **Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+
+## Requisitos
+1. Ter instalado o Python 3.12
+2. ``` pip install pygame &&/
+   pip install random &&/
+   pip install heapq
+   ```
 
 ## Instalação para devs
 1. Clone o repositório:
